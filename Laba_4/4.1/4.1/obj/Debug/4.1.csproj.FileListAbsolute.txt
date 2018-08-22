@@ -1,0 +1,7 @@
+E:\Programming\С#\4.1\4.1\bin\Debug\4.1.exe.config
+E:\Programming\С#\4.1\4.1\bin\Debug\4.1.exe
+E:\Programming\С#\4.1\4.1\bin\Debug\4.1.pdb
+E:\Programming\С#\4.1\4.1\obj\Debug\4.1.csprojAssemblyReference.cache
+E:\Programming\С#\4.1\4.1\obj\Debug\4.1.csproj.CoreCompileInputs.cache
+E:\Programming\С#\4.1\4.1\obj\Debug\4.1.exe
+E:\Programming\С#\4.1\4.1\obj\Debug\4.1.pdb

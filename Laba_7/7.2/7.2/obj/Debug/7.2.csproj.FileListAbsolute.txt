@@ -1,0 +1,10 @@
+E:\Programming\С#\Laba_7\7.2\7.2\bin\Debug\7.2.exe.config
+E:\Programming\С#\Laba_7\7.2\7.2\bin\Debug\7.2.exe
+E:\Programming\С#\Laba_7\7.2\7.2\bin\Debug\7.2.pdb
+E:\Programming\С#\Laba_7\7.2\7.2\obj\Debug\7.2.csprojAssemblyReference.cache
+E:\Programming\С#\Laba_7\7.2\7.2\obj\Debug\_7._2.Form1.resources
+E:\Programming\С#\Laba_7\7.2\7.2\obj\Debug\_7._2.Properties.Resources.resources
+E:\Programming\С#\Laba_7\7.2\7.2\obj\Debug\7.2.csproj.GenerateResource.cache
+E:\Programming\С#\Laba_7\7.2\7.2\obj\Debug\7.2.csproj.CoreCompileInputs.cache
+E:\Programming\С#\Laba_7\7.2\7.2\obj\Debug\7.2.exe
+E:\Programming\С#\Laba_7\7.2\7.2\obj\Debug\7.2.pdb

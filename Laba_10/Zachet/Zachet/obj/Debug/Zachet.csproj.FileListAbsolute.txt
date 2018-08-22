@@ -1,0 +1,13 @@
+E:\Programming\С#\Laba_10\Zachet\Zachet\obj\Debug\Zachet.csprojAssemblyReference.cache
+E:\Programming\С#\Laba_10\Zachet\Zachet\obj\Debug\Zachet.Properties.Resources.resources
+E:\Programming\С#\Laba_10\Zachet\Zachet\obj\Debug\Zachet.csproj.GenerateResource.cache
+E:\Programming\С#\Laba_10\Zachet\Zachet\obj\Debug\Zachet.csproj.CoreCompileInputs.cache
+E:\Programming\С#\Laba_10\Zachet\Zachet\bin\Debug\Zachet.exe.config
+E:\Programming\С#\Laba_10\Zachet\Zachet\bin\Debug\Zachet.exe
+E:\Programming\С#\Laba_10\Zachet\Zachet\bin\Debug\Zachet.pdb
+E:\Programming\С#\Laba_10\Zachet\Zachet\obj\Debug\Zachet.exe
+E:\Programming\С#\Laba_10\Zachet\Zachet\obj\Debug\Zachet.pdb
+E:\Programming\С#\Laba_10\Zachet\Zachet\obj\Debug\Zachet.Form1.resources
+E:\Programming\С#\Laba_10\Zachet\Zachet\obj\Debug\Zachet.Form2.resources
+E:\Programming\С#\Laba_10\Zachet\Zachet\bin\Debug\Zachet.exe.CodeAnalysisLog.xml
+E:\Programming\С#\Laba_10\Zachet\Zachet\bin\Debug\Zachet.exe.lastcodeanalysissucceeded

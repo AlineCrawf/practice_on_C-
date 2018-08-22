@@ -1,0 +1,14 @@
+E:\Programming\С#\4.2\4.2\bin\Debug\4.2.exe.config
+E:\Programming\С#\4.2\4.2\bin\Debug\4.2.exe
+E:\Programming\С#\4.2\4.2\bin\Debug\4.2.pdb
+E:\Programming\С#\4.2\4.2\obj\Debug\4.2.csprojAssemblyReference.cache
+E:\Programming\С#\4.2\4.2\obj\Debug\4.2.csproj.CoreCompileInputs.cache
+E:\Programming\С#\4.2\4.2\obj\Debug\4.2.exe
+E:\Programming\С#\4.2\4.2\obj\Debug\4.2.pdb
+E:\Programming\С#\Laba_4\4.2\4.2\obj\Debug\4.2.csprojAssemblyReference.cache
+E:\Programming\С#\Laba_4\4.2\4.2\obj\Debug\4.2.csproj.CoreCompileInputs.cache
+E:\Programming\С#\Laba_4\4.2\4.2\obj\Debug\4.2.exe
+E:\Programming\С#\Laba_4\4.2\4.2\obj\Debug\4.2.pdb
+E:\Programming\С#\Laba_4\4.2\4.2\bin\Debug\4.2.exe.config
+E:\Programming\С#\Laba_4\4.2\4.2\bin\Debug\4.2.exe
+E:\Programming\С#\Laba_4\4.2\4.2\bin\Debug\4.2.pdb

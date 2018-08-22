@@ -1,0 +1,7 @@
+E:\Programming\С#\Laba_4\4.3\4.3\obj\Debug\4.3.csprojAssemblyReference.cache
+E:\Programming\С#\Laba_4\4.3\4.3\obj\Debug\4.3.csproj.CoreCompileInputs.cache
+E:\Programming\С#\Laba_4\4.3\4.3\bin\Debug\4.3.exe.config
+E:\Programming\С#\Laba_4\4.3\4.3\bin\Debug\4.3.exe
+E:\Programming\С#\Laba_4\4.3\4.3\bin\Debug\4.3.pdb
+E:\Programming\С#\Laba_4\4.3\4.3\obj\Debug\4.3.exe
+E:\Programming\С#\Laba_4\4.3\4.3\obj\Debug\4.3.pdb
