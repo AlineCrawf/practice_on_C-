@@ -1,0 +1,7 @@
+E:\Programming\С#\Класс_3.1\Класс_3.1\bin\Debug\Класс_3.1.exe.config
+E:\Programming\С#\Класс_3.1\Класс_3.1\bin\Debug\Класс_3.1.exe
+E:\Programming\С#\Класс_3.1\Класс_3.1\bin\Debug\Класс_3.1.pdb
+E:\Programming\С#\Класс_3.1\Класс_3.1\obj\Debug\Класс_3.1.csprojAssemblyReference.cache
+E:\Programming\С#\Класс_3.1\Класс_3.1\obj\Debug\Класс_3.1.csproj.CoreCompileInputs.cache
+E:\Programming\С#\Класс_3.1\Класс_3.1\obj\Debug\Класс_3.1.exe
+E:\Programming\С#\Класс_3.1\Класс_3.1\obj\Debug\Класс_3.1.pdb

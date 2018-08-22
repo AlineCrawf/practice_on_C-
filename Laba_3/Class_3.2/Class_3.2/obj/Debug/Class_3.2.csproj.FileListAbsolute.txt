@@ -1,0 +1,7 @@
+E:\Programming\С#\Class_3.2\Class_3.2\bin\Debug\Class_3.2.exe.config
+E:\Programming\С#\Class_3.2\Class_3.2\bin\Debug\Class_3.2.exe
+E:\Programming\С#\Class_3.2\Class_3.2\bin\Debug\Class_3.2.pdb
+E:\Programming\С#\Class_3.2\Class_3.2\obj\Debug\Class_3.2.csprojAssemblyReference.cache
+E:\Programming\С#\Class_3.2\Class_3.2\obj\Debug\Class_3.2.csproj.CoreCompileInputs.cache
+E:\Programming\С#\Class_3.2\Class_3.2\obj\Debug\Class_3.2.exe
+E:\Programming\С#\Class_3.2\Class_3.2\obj\Debug\Class_3.2.pdb
